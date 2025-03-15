@@ -1,0 +1,22 @@
+{
+  "name": "course_with_wans_academy",
+  "version": "1.0.0",
+  "description": "course with wans academy",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novalrizkyangkasa/course_with_wans_academy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novalrizkyangkasa/course_with_wans_academy/issues"
+  },
+  "homepage": "https://github.com/novalrizkyangkasa/course_with_wans_academy#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
